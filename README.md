@@ -512,6 +512,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Swagger](http://hao.jobbole.com/swagger/)：Swagger是一个规范且完整的框架，提供描述、生产、消费和可视化RESTful Web Service。[官网](http://swagger.io/)
 * [Blade](http://hao.jobbole.com/bladejava/)：国人开发的一个轻量级的MVC框架. 它拥有简洁的代码，优雅的设计。[官网](https://github.com/biezhi/blade)
 * [Restlet](restlet.com) ：RestFul web 服务框架。[官网](restlet.com)
+* [Rest-Assured](https://github.com/rest-assured/rest-assured) : RestFul 测试框架。[官网](https://github.com/rest-assured/rest-assured)
 
 <h3 id="science">科学计算与分析</h3>
 *用于科学计算和分析的函数库。*
